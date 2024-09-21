@@ -1,4 +1,4 @@
 [submodule "inst/include/fdaPDE"]
 	path = inst/include/fdaPDE
-	url = https://github.com/fdaPDE/fdaPDE-cpp
+	url = git@github.com:BlertaBegu/fdaPDE-cpp.git
 	branch = stable
